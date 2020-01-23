@@ -1,4 +1,4 @@
-# About Jeffrey 
+# SparkNotes: Jeffrey Duan 
 
 ### Who are you?
 Hey there! My name's Jeffrey Duan, and I'm studying Computer Science and Formal Systems at the University of Connecticut. Right now, I'm interested in encoding human values as formal systems such that intelligent agents will be able to follow along and adhere to our collective values, but that may very well change. 
