@@ -1,0 +1,17 @@
+# Convergent Thinking
+
+I think I've decided to pursue a toy model with a smaller scope than my ambitious side would like to admit to itself. My projects have had a trend of being really large and important, where it'd take years of hard work and specific studying to get even close to some formulation of a solution; instead, I think I'm going to take it a bit easier and try to iterate upon the principles behind this project and slowly get to where I want to be.
+
+I've done some thinking, and I've kind of outlined the major components of such a project: 
+
+1. Of course, I'll need an agent that's able to model its environment (most likely me) and spit out something intelligible to humans regarding its internal model/map. 
+2. I need some interface where the agent and I can communicate. 
+3. As for the environmment, it'll probably just be me and whatever is relevant in the world around me (I still haven't decided what specifically to have it model). 
+
+One new pitfall that I think I might face is in the interface; unless I constrain it to very simple true/false questions whose consequences are hardcoded into the agent (maybe some Bayesian calculation? not sure yet), I might have to delve into natural language processing and getting my agent to the point where it can sufficiently model itself to notice gaps in its map of the environment, which is a little bit terrifying to think about this early on.
+
+I'm also unclear as to how the agent is supposed to receive information. Should I just pass it a survey filled in and let it model me? Feed it existing data and have it pump out insights?
+
+Current status: frustrated with the administrative hoop-jumping in university life[^1].
+
+[^1]: Met with my advisor today about getting an MS in math as an undergrad, and he said that it wouldn't be allowed even if I took all of the required courses. I might be too focused on the actual certificate, but it *is* frustrating that I can't just check that off of my list of to-dos and get on with my life. 
